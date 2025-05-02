@@ -1,4 +1,4 @@
-# 📄 Chat with Multiple PDFs using Gemini Pro & LangChain  
+# 📄 Chat with Multiple PDFs using Gemini & LangChain  
 *A conversational AI tool to query information from multiple PDFs simultaneously.*
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/repo-name?style=social)](https://github.com/yourusername/repo-name)
