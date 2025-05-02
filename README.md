@@ -40,7 +40,6 @@ pip install -r requirements.txt
 GOOGLE_API_KEY=your_api_key_here
 
 ## Run the Application
-bash
 streamlit run app.py
 
 
