@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-![Demo GIF](demo.gif) *(Replace with actual demo path)*  
+![Demo GIF](demo.gif) *(Later...)*  
 
 ## 🚀 Features  
 - **Multi-PDF Support**: Upload and process multiple PDFs at once.  
