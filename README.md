@@ -29,6 +29,19 @@
 ```bash
 pip install -r requirements.txt
 
+## Set Up Environment
+
+
+1. Create a `.env` file in your project root directory
+2. Add your Google API key:
+
+```env
+GOOGLE_API_KEY=your_api_key_here
+
+Run the Application
+bash
+streamlit run app.py
+
 
 
 
