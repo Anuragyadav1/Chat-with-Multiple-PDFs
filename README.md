@@ -24,3 +24,11 @@
    ```bash
    git clone https://github.com/yourusername/repo-name.git
    cd repo-name
+   
+## 📦 Install dependencies 
+```bash
+pip install -r requirements.txt
+
+
+
+
