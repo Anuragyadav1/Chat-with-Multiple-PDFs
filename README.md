@@ -17,7 +17,7 @@
 - **Backend**: Python, LangChain, Google Generative AI  
 - **Vector DB**: Facebook AI Similarity Search (FAISS)  
 - **Frontend**: Streamlit  
-- **Embeddings**: Google Gemini `embedding-001`  
+- **Embeddings**: Google Gemini 
 
 ## 📦 Installation  
 1. Clone the repo:  
